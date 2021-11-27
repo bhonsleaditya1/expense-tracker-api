@@ -1,0 +1,6 @@
+/.vscode
+/gradle
+/gradlew
+/gradlew.bat
+/.gradle
+*.log
